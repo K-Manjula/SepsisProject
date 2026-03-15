@@ -58,6 +58,8 @@ This demographic analysis provides crucial insights into patient distribution, s
 **<h2>SIRS (Systemic inflammatory response syndrome) Analysis</h2>**
 Systemic inflammatory response syndrome(SIRS) is a serious condition that occurs when the body has an exaggerated defense response to a harmful stressor
 
+![Alt text](https://github.com/K-Manjula/SepsisProject/blob/Develop/Bio.png)
+
 * 22% of total patients in this data set got admitted with SIRS symptoms. It is hard to find the time of trigger since many patients may not keep track of the time when they start showing each symptom.
 * Over 50% of patients have high heart rates and increased respiratory rates. Around 2% of patients are admitted with Acute-phase Reactions (high temp & high WBC), which can be fatal. Within the first hour of admission, many patients show more than 2 SIRS symptoms, requiring immediate medical attention.
 
