@@ -12,7 +12,7 @@ The Sepsis project involved the analysis of a vast dataset comprising over 1.5 m
 
 **<h2>Demographic Analysis </h2>**
 Utilized Calculated Fields, Level of Details Expressions(LOD) with the "FIXED" keyword to accurately classify patients into sepsis, non-sepsis, and onset sepsis
-
+![Alt text](https://github.com/K-Manjula/SepsisProject/blob/master/S_Cat.png)
 
 * Dashboard displays patient distribution: 98.02% without sepsis and 1.98% with sepsis.
 * The primary goal is swift diagnosis and treatment for the non-sepsis patients (98.02%) to prevent sepsis development.
