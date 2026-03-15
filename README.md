@@ -63,7 +63,7 @@ Systemic inflammatory response syndrome(SIRS) is a serious condition that occurs
 * 22% of total patients in this data set got admitted with SIRS symptoms. It is hard to find the time of trigger since many patients may not keep track of the time when they start showing each symptom.
 * Over 50% of patients have high heart rates and increased respiratory rates. Around 2% of patients are admitted with Acute-phase Reactions (high temp & high WBC), which can be fatal. Within the first hour of admission, many patients show more than 2 SIRS symptoms, requiring immediate medical attention.
 
-<img src="https://github.com/K-Manjula/SepsisProject/blob/Develop/Email.png" width="500" height=500 alt="Description of image"/>    <img src="https://github.com/K-Manjula/SepsisProject/blob/Develop/SIRS.png?raw=true" width="400" height=400 alt="Description of image" />
+<img src="https://github.com/K-Manjula/SepsisProject/blob/Develop/Email.png" width="500" height=500 alt="Description of image"/><img src="https://github.com/K-Manjula/SepsisProject/blob/Develop/SIRS.png?raw=true" width="400" height=400 alt="Description of image" />
 
 * Utilized calculated fields, Level of Details Expressions(LOD) with the "FIXED" keyword to specifically target and identify the SIRS trigger hour for patients.
 * Implemented dummy axes technique and formatted cell colors to effectively highlight abnormal test results, enabling quick identification and analysis.
